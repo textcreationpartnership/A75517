@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An appeale from the court to the country. Made by a Member of Parliament lawfully chosen, but secluded illegally by my L. Protector.</title>
+            <author>Member of Parliament lawfully chosen but secluded illegally by my L. Protector.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75517</idno>
+            <idno type="STC">Wing A3565</idno>
+            <idno type="STC">Thomason E891_3</idno>
+            <idno type="STC">ESTC R206507</idno>
+            <idno type="EEBO-CITATION">99865651</idno>
+            <idno type="PROQUEST">99865651</idno>
+            <idno type="VID">168411</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75517)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168411)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 134:E891[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An appeale from the court to the country. Made by a Member of Parliament lawfully chosen, but secluded illegally by my L. Protector.</title>
+                  <author>Member of Parliament lawfully chosen but secluded illegally by my L. Protector.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed, MDCLVI. [1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "October 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168411:1" rendition="simple:additions"/>
+            <p>AN-APPEALE <hi>From the Court to the Country.</hi>
+            </p>
+            <p>
+               <hi>Made by a Member of Parliament lawfully choſen, but ſecluded illegally by my L. Protector.</hi>
+            </p>
+            <p>Printed, MDCLVI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="appeal">
+            <pb facs="tcp:168411:2"/>
+            <pb n="1" facs="tcp:168411:2"/>
+            <head>
+               <hi>AN APPEALE</hi> From the Court to the Country; Made by a Member of Parliament lawfully choſen, but ſecluded illegally by my L. Protector.</head>
+            <p>AFter ſo manifeſt a breach of our Lawes, ſo un<g ref="char:EOLhyphen"/>coulorable a violation of our Priviledges, ſo hay<g ref="char:EOLhyphen"/>nous an invaſion of our common Right, and freedome, and ſo publique a defiance given to the whole Nation, it is more then time for us to prepare for our defence, and to raiſe new bancks againſt that violent inundation of Arbitrary power, which h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> broken in upon us, and is ready to beare downe all before it, and againſt which our ancient, and great Charters, our fundamentall In<g ref="char:EOLhyphen"/>ſtitutes have been too inſufficient to make reſiſtance. I con<g ref="char:EOLhyphen"/>feſſe it were much to be wiſhed that the neceſſity of our caſe had not compeld us to referre this preſent Controverſie to the arbitrement of the Sword, wee having ſo lately paſt through all the calamities of a civill Warre, but the axe being layd to the root of our Liberties, and all other meanes proving ineffec<g ref="char:EOLhyphen"/>tuall for our redreſs, like Phyſick too weake for the body of the Patient, there remaines only this choyce eyther to ſubmit our ſelves, and poſterity perpetuall Slaves to the uncontrolla<g ref="char:EOLhyphen"/>ble dictates of one mans will, or by our ſtrengths united to breake his bands a ſunder, and caſt away his cords from us.
+<pb n="2" facs="tcp:168411:3"/>Neither ought wee to diſtruſt that the appearance, and owning of the Divine providence will be leſſe ſignall for us in this ſo neceſſary and juſt aſſertion of our Liberties, then it ſhew'd it ſelf when wee engaged upon farre ſlighter provocation againſt the late King.</p>
+            <p>To omit his forcible encroachment upon our inherent right when hee aſſumed the ſtyle of Protector (for I will appeale to the breſt of every individuall Perſon, how farre his aſſent at<g ref="char:EOLhyphen"/>tended him to the Throne) let us take a ſhort view of his Go<g ref="char:EOLhyphen"/>vernment, that from thence we may gather, whether in any one inſtance hee hath laboured the Peoples ſatisfaction for his injurious uſurpation of it.</p>
+            <p>And our Proſpect hereof will be the fayrer, if wee begin it from his diviſion of the Land into ſeverall Cantons; and pla<g ref="char:EOLhyphen"/>cing over them thoſe lawleſs M: Gs: which have uſurped likewiſe the Civill power, over-awing the Judges in theyr Circuits, countenancing the cauſes of theyr owne faction, re<g ref="char:EOLhyphen"/>verſing the decrees and verdicts of our publique Judicatories; and like the <hi>Sultans Timariols</hi> farming the Land out at 60000. pounds a Moneth, or what higher rate he ſhall hereafter pleaſe to ſet it at. Nor ſhall any man under theſe rigid tax Maſters retayne any longer a property in his eſtate then this our Grand <hi>Signeur</hi> ſhall pleaſe to continue him in it. From whoſe ille<g ref="char:EOLhyphen"/>gall exaction of the Tenths of all compounders eſtates and of whoſe elſe hee pleaſeth wee may readily conclude, and in the following parts of this diſcourſe ſhall make cleare how great danger from this kind of oeconomy hangs over all men though of different Principles and intereſts for them.</p>
+            <p>This ſeverity therefore exerciz'd upon them from a ground<g ref="char:EOLhyphen"/>leſs ſurmiſe (for ought that yet hath bin made appeare to us) of theyr generall guilt, ſhould timely awaken us to our defence, leaſt like thoſe in <hi>Poliphemus</hi> his den, whileſt wee weakly and faintly hoping that it will be our fate to ſurvive the fury of the Monſter, or to linger out a wretched life beyond our fellowes,
+<pb n="3" facs="tcp:168411:3"/>ſhall at the laſt find our numbers ſo decreas'd, and our ſtrengths inſenſibly abated, that it will bee to no effect to op<g ref="char:EOLhyphen"/>poſe.</p>
+            <p>That the condition of thoſe who have faithfully in theyr ſeverall ſtations diſcharged theyr Conſciences in vindicating the Liberties of the People, is at this day the ſame with thoſe who in that quarrell formerly withſtood them, you ſhall need for a proofe no further to looke backe, then to the late Secluding the major part of the Members lawfully return'd, who upon their addreſſe to the remayning Number for theyr admittance, were by them referr'd to the Councell, from whom they received anſwer, they had refus'd none that to them appear'd to be men of Integrity, and according to the qualification in the Inſtru<g ref="char:EOLhyphen"/>ment; and therefore his Highneſs and the Councill had given order to the Souldiers at the doore to keepe them out.</p>
+            <p>Let us ſtay a little to compare this infringement of our Pri<g ref="char:EOLhyphen"/>viledges with that of the late Kings in demanding the Five members, which as it was in it ſelf a violation moſt unjuſtifi<g ref="char:EOLhyphen"/>able, ſo was it by him afterwards confeſs'd to be, and recan<g ref="char:EOLhyphen"/>ted; yet even at that time there was a pretence of a particular Charge preparing againſt them, notwithſtanding which alle<g ref="char:EOLhyphen"/>gation in excuſe of that inſolent fact, it was by all men judged to bee the higheſt Indignity that ever was offerd to that ſupreme Court. But how infinitely this tranſcends it in all its mea<g ref="char:EOLhyphen"/>ſures, conſidering the Number of the perſons ſecluded, the inſufficiency of this generall Charge, and how farre this doth reflect upon the Honour of the reſpective Countyes, whoſe De<g ref="char:EOLhyphen"/>legates they are, to have theyr Meſſenger reproachfully diſ<g ref="char:EOLhyphen"/>miſs'd like <hi>Davids</hi> by <hi>Hanun, Sam.</hi> 2.10. How neerly this want of Integrity doth entitle us to the cryme of <hi>Cavaliers,</hi> and conſequently to all that ruyne that hath attended them, a man of a very ſhort ſight may eaſily diſcerne.</p>
+            <pb n="4" facs="tcp:168411:4"/>
+            <p>And that none for the future ſhall be deem'd worthy to beare Office in the Common-wealth, but ſuch who have in<g ref="char:EOLhyphen"/>tereſts diſtinct from the Peoples, and owne their ſole and immediate dependance upon the Protector, that none ſhall bee reputed Men of Integritie but the corrupt part of the Soulderie, and theyr abettors, that this qualification of the In<g ref="char:EOLhyphen"/>ſtrument admits ſo great a latitude of interpretation that the moſt zealous Patriots and incorrupt aſſertours of the Peoples rights may ſtand ſecluded by it, I preſume this our laſt repulſe hath put out of diſpute; and that thoſe who have not ſtreyn'd at this Gnat, may ſwallow a Camell, and from this ſcanda<g ref="char:EOLhyphen"/>lous objection, this odious defamation of our Perſons names proceed to derive a tytle to our eſtates wee have too great rea<g ref="char:EOLhyphen"/>ſon to feare: Eſpecially if wee recollect at what vaſt charge he hath maintayned thoſe Fleets and Armyes for theſe two laſt yeares againſt the <hi>Spanyard;</hi> for it is moſt confeſſedly true that when a period was put to the long Parliament, and in their diſſolution to all our hopes of future Fieedome and felicity, there remained in Banck above Four hundred thouſand pounds, all which in theſe late inglorious Enterprizes hath been expen<g ref="char:EOLhyphen"/>ded; and the Nation at this day above two Millions in debt. And how farre future exigencyes will drive his Highneſs to make uſe of the eſtates of ſuch perſons whom hee deems men of no integrity wee may finde when theſe arreares come to be audited and payed.</p>
+            <p>It was then little thought (for into what heart could it en<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er?) when wee oppos'd our ſelves agaynſt the illegall exor<g ref="char:EOLhyphen"/>bitancyes of the Court, that a Perſon of ſo great auſteritie of life, ſo frequent in bewayling the miſeries of his Countrey; ſo ſedulous and vigilant in his Charge; ſo tender of the Lawes, and Libertyes of the Nation, and ſo narrowly ſearching into all the hidden corners of arbitrary and encroaching Policy, ſhould at the laſt arrogate to himſelf a juriſdiction farre grea<g ref="char:EOLhyphen"/>ter then that with which hee conteſted, or then yet any King
+<pb n="5" facs="tcp:168411:4"/>of <hi>England</hi> ever aſſumed. It was then little imagin'd that the time ſhould come, when this great Champion of the Lawes, ſhould ſtop the Lawes in theyr due courſe and impriſon the moſt eminent of the long Robe for declaring the expreſſe letter of the Lawes; That this defender of Liberty of Conſcience ſhould diſcountenance and reſtraine men in the exerciſe of their Conſcience; and this rigid maintayner of the Rights, and Pri<g ref="char:EOLhyphen"/>viledges of Parliament, laying aſyde his now uſeleſs religicall vizard, ſubvert the very foundation of that venerable Aſſem<g ref="char:EOLhyphen"/>bly; To this I ſay ſome yeares paſt, though the tongue of an Oracle had praedicted it, we ſhould ſlowly have given credit.</p>
+            <p>But that theſe pleaſant dreames might no longer delude us, hee declares how that our Lawes are not the Card by which he is to ſteere, and that it were Ridiculous, and fooliſh; nay bru<g ref="char:EOLhyphen"/>tiſh to imagyne that thoſe Charters which our Aneeſtours with ſo great hazard and expence contended for, were now any longer fit to bee maintayned as the ſquare of his Government, that in the intercourſe pretended betweene his and the Divine Spirit, whatſoever ſhould be dictated to him hee would obſerve as his rule, and wee ought to follow as our blind guide; That hee had rather be led by neceſſity and providence (his owne Creatures) then by the wiſeſt, and beſt inſtituted Lawes of the world.</p>
+            <p>That our ſupreme Magiſtrate is irreprehenſible, that his actions ought neither to fall under the examination of the Peo<g ref="char:EOLhyphen"/>ple, or be lyable to the Cenſure of any Court whatſoever.</p>
+            <p>Wee doe not, we cannot believe that the whole body of the Army are ſo forgetfull of theyr engagements, that they contribute ſo much as theyr aſſent to this ſad oppreſſion of their Countrymen; or that thoſe who ſo ſtrenuouſly oppos'd it in the late King, can now favour tyrannie under the diſguiſe of another name. Nay wee reſt aſſur'd that theſe praevarications have averted the hearts of many whom the impoſtures of his zeale had allur'd and ſeduced.</p>
+            <pb n="6" facs="tcp:168411:5"/>
+            <p>For if theſe Maximes muſt now be tamely ſubſcribed to; if a ſelect Number of his favourites muſt beare the tytle and au<g ref="char:EOLhyphen"/>thority of a Parliament, if perſons legally returned muſt with a hatefull brand upon theyr Reputations be ſecluded, and ren<g ref="char:EOLhyphen"/>dred incapable for the future (which is a conjecture not at all improbable) of truſt in the behalfe of theyr Country; how much better had it been for us patiently to have borne the yoke of Kingly Government, then after the effuſion, of ſo much bloud, and the expence of ſo great Treaſure, after all our glorious victories over our Enemyes to beare this mans yoke, and that heavier, and more inſupportable then eyther wee, or our Fore-fathers ever endured.</p>
+            <p>This our Condition therefore manifeſting a neceſſity for the defence of our Libertyes, let us firſt implore the aſſiſtance of that Almighty arme which hath ſhew'd it ſelf ſo ſtrong for Us, and then with holy confidence in our invincible Ayder, joyntly and unanimouſly oppoſe our ſelves againſt this mighty oppreſſour, and all his Apoſtate adhaerents, and no doubt but God will ſcatter the bones of all them that encampe agaynſt us, and wee ſhall put them to ſhame; becauſe God hath deſpiſed them, <hi>Pſal.</hi> 53. <hi>verſ.</hi> 5.</p>
+            <trailer>FIN.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
